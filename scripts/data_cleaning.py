@@ -6,3 +6,5 @@ deaths= [50,100,150,200]
 infection=[58,95]
 
 corrosion=[50,60,70]
+
+titanic=[25,35,65]
